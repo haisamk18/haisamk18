@@ -44,16 +44,21 @@
 <div align="left">
   <img src="https://www.shutterstock.com/shutterstock/photos/1669056601/display_1500/stock-vector-emblem-of-c-plus-plus-programming-language-blue-hexagon-with-the-letter-c-and-two-pluses-inside-1669056601.jpg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://iconscout.com/free-3d-illustration/flutter-5562357" height="40" alt="rust logo"  />
+  <img src="https://www.shutterstock.com/shutterstock/photos/1397241389/display_1500/stock-vector-vector-illustration-of-an-icon-of-the-python-programming-language-logo-in-the-form-of-two-snakes-1397241389.jpg" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://iconscout.com/free-3d-illustration/python-9294858" height="40" alt="ruby logo"  />
+  
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27540%2Fjavascript-js&psig=AOvVaw3Ou4c9kQC3wcA9FTRqihPj&ust=1711699655000000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPir9Z_AloUDFQAAAAAdAAAAABAE" height="40" alt="ruby logo"  />
+   <img src="https://www.shutterstock.com/shutterstock/photos/1568210053/display_1500/stock-vector-react-emblem-blue-atom-on-black-backgroung-1568210053.jpg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn8UpzeUZ8uXraZ3XjvO8pFYghl7OiQSvZauchl-7uDQ&s" height="40" alt="circleci logo"  />
+  <img width="12" />
+
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
