@@ -42,7 +42,7 @@
 ###
 
 <div align="left">
-  <img src="https://iconscout.com/free-3d-illustration/c-language-logo-6563484" height="40" alt="go logo"  />
+  <img src="https://www.shutterstock.com/shutterstock/photos/1669056601/display_1500/stock-vector-emblem-of-c-plus-plus-programming-language-blue-hexagon-with-the-letter-c-and-two-pluses-inside-1669056601.jpg" height="40" alt="go logo"  />
   <img width="12" />
   <img src="https://iconscout.com/free-3d-illustration/flutter-5562357" height="40" alt="rust logo"  />
   <img width="12" />
